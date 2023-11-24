@@ -1,0 +1,219 @@
+[13-May-2023 19:54:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 19:54:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:01:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:01:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:01:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:01:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:01:05 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/approve_recharge.php on line 281
+[13-May-2023 20:01:05 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/approve_recharge.php on line 285
+[13-May-2023 20:01:05 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/approve_recharge.php on line 281
+[13-May-2023 20:01:05 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/approve_recharge.php on line 285
+[13-May-2023 20:01:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:01:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:01:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:01:14 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:14 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:14 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:14 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:14 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:14 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:01:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:01:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:01:21 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:21 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:21 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:21 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:21 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:21 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:27 Asia/Kolkata] PHP Fatal error:  Cannot redeclare newname() (previously declared in /home/webservices/03/2xclub.shop/admin/include/connection.php:13) in /home/webservices/03/2xclub.shop/admin/include/connection.php on line 13
+[13-May-2023 20:01:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:01:28 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:28 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:28 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:28 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:28 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:28 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:32 Asia/Kolkata] PHP Fatal error:  Cannot redeclare newname() (previously declared in /home/webservices/03/2xclub.shop/admin/include/connection.php:13) in /home/webservices/03/2xclub.shop/admin/include/connection.php on line 13
+[13-May-2023 20:01:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:01:34 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:34 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:34 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:34 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:34 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:34 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare newname() (previously declared in /home/webservices/03/2xclub.shop/admin/include/connection.php:13) in /home/webservices/03/2xclub.shop/admin/include/connection.php on line 13
+[13-May-2023 20:01:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:01:37 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:37 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:37 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:37 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:37 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:37 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:01:57 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:57 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:57 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:57 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:01:57 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:01:57 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:02:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:02:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 11:10:17 America/New_York] PHP Notice:  Undefined index: userid in /home/webservices/03/2xclub.shop/admin/desktop.php on line 4
+[13-May-2023 20:40:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:40:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:41:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:41:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:41:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:41:49 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:41:49 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:41:49 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:41:49 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:41:49 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:41:49 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:41:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:41:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:42:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:42:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:43:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:43:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:43:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:43:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:43:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:43:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:43:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:43:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:43:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:43:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:43:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:43:52 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:43:52 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:43:52 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:43:52 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:43:52 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:43:52 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:44:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:44:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:44:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:44:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:45:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:45:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:46:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:46:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:47:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:47:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:48:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:48:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:48:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:48:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:49:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:49:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:50:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:50:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:50:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/connection.php on line 93
+[13-May-2023 20:50:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:50:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:51:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:51:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:51:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:51:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:52:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:52:07 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:52:07 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:52:07 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:52:07 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:52:07 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:52:07 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:52:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:52:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:52:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 227
+[13-May-2023 20:52:52 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:52:52 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:52:52 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:52:52 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:52:52 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 236
+[13-May-2023 20:52:52 Asia/Kolkata] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/webservices/03/2xclub.shop/admin/manage_recharge.php on line 240
+[13-May-2023 20:52:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:52:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:53:00 Asia/Kolkata] PHP Notice:  Undefined index: commission_rate in /home/webservices/03/2xclub.shop/admin/manage_amount.php on line 211
+[13-May-2023 20:53:00 Asia/Kolkata] PHP Notice:  Undefined index: withdrawal_status in /home/webservices/03/2xclub.shop/admin/manage_amount.php on line 282
+[13-May-2023 20:53:00 Asia/Kolkata] PHP Notice:  Undefined index: withdrawal_status in /home/webservices/03/2xclub.shop/admin/manage_amount.php on line 291
+[13-May-2023 20:53:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:53:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:53:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:53:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:53:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:53:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:53:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:53:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:54:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:54:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 20:54:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 20:54:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 11:32:33 America/New_York] PHP Notice:  Undefined index: userid in /home/webservices/03/2xclub.shop/admin/desktop.php on line 4
+[13-May-2023 21:02:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:02:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:15:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:15:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:15:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:15:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:15:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:15:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:15:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:15:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:16:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:16:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:19:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:19:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:22:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:22:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:22:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:22:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:22:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:22:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:22:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/connection.php on line 93
+[13-May-2023 21:23:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/connection.php on line 93
+[13-May-2023 21:23:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:23:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:24:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:24:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:24:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:24:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:24:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:24:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 21:31:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 21:31:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 12:44:28 America/New_York] PHP Notice:  Undefined index: userid in /home/webservices/03/2xclub.shop/admin/rule.php on line 4
+[13-May-2023 12:44:45 America/New_York] PHP Notice:  Undefined index: userid in /home/webservices/03/2xclub.shop/admin/privacy.php on line 4
+[13-May-2023 22:14:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:14:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:14:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:14:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:19:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:19:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:19:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:19:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:19:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:19:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:24:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:24:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:24:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:24:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:24:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:24:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:24:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:24:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:24:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:24:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:25:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:25:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:25:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:25:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:29:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:29:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:29:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
+[13-May-2023 22:30:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 22
+[13-May-2023 22:30:08 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/webservices/03/2xclub.shop/admin/include/navigation.inc.php on line 23
